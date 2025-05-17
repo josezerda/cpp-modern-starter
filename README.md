@@ -5,7 +5,7 @@ Este es un proyecto base en C++20 para comenzar a desarrollar aplicaciones moder
 ---
 
 ## 📁 Estructura del Proyecto
-
+```
 cpp-modern-starter/
 ├── CMakeLists.txt
 ├── include/
@@ -18,7 +18,7 @@ cpp-modern-starter/
 │ └── lib/catch2/ <-- Catch2 como submódulo
 └── .github/
 └── workflows/ci.yml
-
+```
 
 ## 🛠️ Cómo Compilar
 
