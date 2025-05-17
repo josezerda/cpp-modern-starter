@@ -1,0 +1,3 @@
+/home/jose/proyectos/cpp-modern-starter/build/CMakeFiles/app.dir
+/home/jose/proyectos/cpp-modern-starter/build/CMakeFiles/edit_cache.dir
+/home/jose/proyectos/cpp-modern-starter/build/CMakeFiles/rebuild_cache.dir
